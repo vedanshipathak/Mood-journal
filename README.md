@@ -50,3 +50,8 @@ pip install -r requirements.txt
  client_id = "your-spotify-client-id"
  client_secret = "your-spotify-client-secret"
   ```
+DEMO
+
+![Screenshot 2025-07-05 225113](https://github.com/user-attachments/assets/3e724605-531c-4fdf-8407-007ebf66b8e9)
+![Screenshot 2025-07-05 225125](https://github.com/user-attachments/assets/b635d335-fdb2-475c-821f-197c94cd658d)
+
